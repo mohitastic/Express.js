@@ -1,0 +1,1 @@
+setInterval(()=>{console.log(".3sec")},300);
